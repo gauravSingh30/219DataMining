@@ -2,7 +2,7 @@
 - [Gaurav Singh](https://github.com/gauravSingh30) 
 
 # Description
-This repository contains four projects (Classifiaction, Clustering, Recommender Systems, Regression) on different datasets with the aim to study about different modelling techniques and their comparisons over different tasks.
+This repository contains four projects (Classification, Clustering, Recommender Systems, Regression) on different datasets with the aim to study about different modelling techniques and their comparisons over different tasks.
 
 # Installation
 Installation instructions for different projects are provided in respective directories
