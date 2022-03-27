@@ -1,0 +1,22 @@
+# requirements needed for the program to function. 
+# Use pip install for python 2 and pip3 install if running on 
+# python 3
+
+numpy
+pandas
+scikit-learn
+matplotlib
+pickle
+itertools
+scipy
+textblob
+vaderSentiment
+nltk
+geonamescache
+summarizers
+seaborn
+statsmodels
+pydot
+lightgbm
+catboost
+scikit-optimize
